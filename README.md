@@ -16,6 +16,7 @@
 - Currently learning Web Development by Self
 - Passionate about web app security, XDR/EDR, email security, and Microsoft Entra ID
 - Constantly learning and applying backup and endpoint protection strategies for business continuity
+- Scientific article published in IEEE Xplore, Research on TOR Blocking [Article](https://ieeexplore.ieee.org/document/10315699)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>

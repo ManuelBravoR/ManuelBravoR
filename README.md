@@ -13,11 +13,11 @@
 
 - Cybersecurity research focused on offensive security and real-world pentesting techniques
 - Certified: eJPT, eWPT — hands-on certifications demonstrating practical exploitation skills
-- Currently learning Web Development by Self
+- Currently continuing to improve my skills in TryHackme, PortSwigger
 - Passionate about web app security, XDR/EDR, email security, and Microsoft Entra ID
 - Constantly learning and applying backup and endpoint protection strategies for business continuity
 - Scientific article published in IEEE Xplore, Research on TOR Blocking [Article](https://ieeexplore.ieee.org/document/10315699)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I'm currently open for an internship or a new job opportunity as a junior, this is, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 

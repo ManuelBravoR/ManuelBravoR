@@ -17,7 +17,7 @@
 - Passionate about web app security, XDR/EDR, email security, and Microsoft Entra ID
 - Constantly learning and applying backup and endpoint protection strategies for business continuity
 - Scientific article published in IEEE Xplore, Research on TOR Blocking [Article](https://ieeexplore.ieee.org/document/10315699)
-- I'm currently open for an internship or a new job opportunity as a junior, this is, this is [my resume](https://drive.google.com/file/d/1lFqLqfAnRmPLTdAUsB7t1wVhe72MUKDd/view?usp=drive_link)
+- I'm currently open for an internship or a new job opportunity as a junior, this is, this is [my resume](https://drive.google.com/file/d/14p2Wbsi16tfuJ4qMoolFe_kYXUs1PbAL/view?usp=sharing)
 
 <br><br>
 
